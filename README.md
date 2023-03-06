@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h3 align="center"> 👋 Hi there 👋 </h3>
 
 <p align="center">
-  Hi, I'm Jay. I'm studying to be a backend developer. 🌱 <br>
+  Hi, I'm Jay. I'm studying to be a Backend developer. 🌱 <br>
 </p>
 
 <h3 align="center">
