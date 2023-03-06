@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **jayeunji/jayeunji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Header](https://capsule-render.vercel.app/api?type=waving&height=250&text=Welcome!&fontColor=ffffff&fontAlignY=40&color=f7b5b5)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=250&text=Welcome!&fontColor=ffffff&fontAlignY=40&color=c9eef7)
 
 <h3 align="center"> 👋 Hi there 👋 </h3>
 
@@ -66,4 +64,4 @@ Here are some ideas to get you started:
   
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=f7b5b5&height=250&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=c9eef7&height=250&section=footer)
