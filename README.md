@@ -33,6 +33,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/mariadb-003545?style=flat-square&logo=Oracle&logoColor=white"/>
 </p>
   
 <h3 align="center">
